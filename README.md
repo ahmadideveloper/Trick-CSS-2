@@ -1,7 +1,7 @@
 # Trick-CSS-2
 
 
-![TrickTransform]![trick2](https://github.com/ahmadideveloper/Trick-CSS-2/assets/141068188/dfaff3c9-fc7a-4123-8b75-a4d43e480054)
+![trick2](https://github.com/ahmadideveloper/Trick-CSS-2/assets/141068188/dfaff3c9-fc7a-4123-8b75-a4d43e480054)
 
 
 - 🔗 [Demo Project](https://ahmadideveloper.github.io/Trick-CSS-2/)
